@@ -1,0 +1,15 @@
+day: 0, animals: 10, plants: 20, average age: 0,00, average fertility: 0,00, average energy: 100,00
+day: 1, animals: 11, plants: 20, average age: 1,00, average fertility: 0,18, average energy: 91,82
+day: 2, animals: 12, plants: 16, average age: 1,92, average fertility: 0,33, average energy: 91,58
+day: 3, animals: 12, plants: 17, average age: 2,92, average fertility: 0,33, average energy: 90,58
+day: 4, animals: 12, plants: 15, average age: 3,92, average fertility: 0,33, average energy: 94,58
+day: 5, animals: 12, plants: 13, average age: 4,92, average fertility: 0,33, average energy: 98,58
+day: 6, animals: 12, plants: 12, average age: 5,92, average fertility: 0,33, average energy: 100,92
+day: 7, animals: 12, plants: 12, average age: 6,92, average fertility: 0,33, average energy: 101,58
+day: 8, animals: 12, plants: 13, average age: 7,92, average fertility: 0,33, average energy: 100,58
+day: 9, animals: 12, plants: 14, average age: 8,92, average fertility: 0,33, average energy: 99,58
+day: 10, animals: 12, plants: 14, average age: 9,92, average fertility: 0,33, average energy: 100,25
+day: 11, animals: 12, plants: 13, average age: 10,92, average fertility: 0,33, average energy: 102,58
+day: 12, animals: 12, plants: 13, average age: 11,92, average fertility: 0,33, average energy: 103,25
+day: 13, animals: 12, plants: 14, average age: 12,92, average fertility: 0,33, average energy: 102,25
+day: 14, animals: 12, plants: 13, average age: 13,92, average fertility: 0,33, average energy: 104,58
