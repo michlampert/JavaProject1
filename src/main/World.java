@@ -8,8 +8,8 @@ public class World {
             SimulationView.runTwo(new SimulationView(new Area("src/parameters.json")), new SimulationView(new Area("src/parameters.json")));
         }
         else{
-        SimulationView okienko = new SimulationView(new Area("src/parameters.json"));
-        okienko.run();
+        SimulationView view = new SimulationView(new Area("src/parameters.json"));
+        view.run();
         }
     }
 
